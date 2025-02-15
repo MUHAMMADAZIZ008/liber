@@ -1,0 +1,6 @@
+.hero__bg--box {
+    background-image: url('./assets/hero_bg.svg');
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+

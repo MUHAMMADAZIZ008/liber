@@ -4,11 +4,11 @@ import MainLayout from './components/layouts/main-layout/main_layout'
 
 function App() {
 
-  return <>
+  return (<>
     <MainLayout>
       <Hero />
     </MainLayout>
-  </>
+</>)
 }
 
 export default App
