@@ -6,7 +6,7 @@ function NavBar() {
             <div className="container">
                 <ul className="navbar__list">
                     <li className="navbar__itim">
-                        <a href="#" className="navbar__link">Аудиокитоб</a>
+                        <a href="/" className="navbar__link">Аудиокитоб</a>
                     </li>
                     <li className="navbar__itim">
                         <a href="#" className="navbar__link">Электрон китоблар</a>
